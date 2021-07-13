@@ -23,7 +23,7 @@ status-website:
   name: Upptime
   introTitle: "Dave's Status Page"
   introMessage: Service status for Dave's homelab.
-  theme: dracula
+  theme: dark
   navbar:
 #    - title: Status
 #      href: /
