@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 530,
-    "timeDay": 390,
+    "timeDay": 520,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 240,
+    "timeDay": 182,
     "timeWeek": 240,
     "timeMonth": 240,
     "timeYear": 240,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 229,
+    "timeDay": 279,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 154,
+    "timeDay": 121,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
@@ -76,18 +76,20 @@
     "url": "https://search.cc",
     "icon": "https://favicons.githubusercontent.com/search.cc",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 396,
+    "timeDay": 522,
     "timeWeek": 167,
     "timeMonth": 167,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-17": 0
+    }
   },
   {
     "name": "Status",
@@ -96,15 +98,17 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1137,
-    "timeDay": 1330,
+    "timeDay": 1397,
     "timeWeek": 1137,
     "timeMonth": 1137,
     "timeYear": 1137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-17": 0
+    }
   }
 ]
