@@ -76,9 +76,9 @@
     "url": "https://search.cc",
     "icon": "https://favicons.githubusercontent.com/search.cc",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 157,
     "timeMonth": 157,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-20": 0
+    }
   },
   {
     "name": "Status",
@@ -96,7 +98,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +107,8 @@
     "timeWeek": 1170,
     "timeMonth": 1170,
     "timeYear": 1170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-20": 0
+    }
   }
 ]
