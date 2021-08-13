@@ -13,6 +13,8 @@ sites:
     url: https://www.davidlevine.com
   - name: Search
     url: https://search.cc
+    expectedStatusCodes:
+      - 521
   - name: Status
     url: https://www.status.cc
   - name: Technicality
