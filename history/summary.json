@@ -122,17 +122,18 @@
     "icon": "https://favicons.githubusercontent.com/www.status.cc",
     "slug": "status",
     "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "100.00%",
+    "uptime": "98.50%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.78%",
     "uptimeMonth": "98.11%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 996,
     "timeDay": 74,
     "timeWeek": 598,
     "timeMonth": 887,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2021-08-24": 0,
       "2021-08-21": 27,
       "2021-08-20": 298,
       "2021-08-15": 28,
@@ -158,17 +159,19 @@
     "url": "https://www.technicality.com",
     "icon": "https://favicons.githubusercontent.com/www.technicality.com",
     "slug": "technicality",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 95,
+    "timeDay": 106,
     "timeWeek": 120,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 0
+    }
   }
 ]
