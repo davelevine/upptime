@@ -3,20 +3,10 @@ owner: davelevine # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Bookstack
-    url: https://www.levine.xyz
-  - name: Code-Server
-    url: https://wired.io
-  - name: Knowledge
-    url: https://www.levine.org
-  - name: Resume
-    url: https://www.davidlevine.com
-  - name: Search
-    url: https://search.cc
+  - name: Better Uptime
+    url: https://eighty.io
   - name: Status
     url: https://www.status.cc
-  - name: Technicality
-    url: https://www.technicality.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
