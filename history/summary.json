@@ -25,7 +25,7 @@
     "url": "https://www.status.cc",
     "icon": "https://favicons.githubusercontent.com/www.status.cc",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "98.76%",
     "uptimeWeek": "98.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 1258,
     "timeYear": 1029,
     "dailyMinutesDown": {
+      "2022-01-10": 0,
       "2022-01-09": 18,
       "2022-01-08": 18,
       "2022-01-07": 66,
