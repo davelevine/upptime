@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Better Uptime
-    url: https://eighty.io
-  - name: Status
     url: https://www.status.cc
+  - name: Status
+    url: https://lab.status.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
