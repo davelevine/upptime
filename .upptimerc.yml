@@ -6,7 +6,7 @@ sites:
   - name: Better Uptime
     url: https://www.status.cc
   - name: Status
-    url: https://lab.status.cc
+    url: https://stats.uptimerobot.com/rYO3jsvYJ
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
