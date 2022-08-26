@@ -11,9 +11,9 @@
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.60%",
     "time": 1013,
-    "timeDay": 911,
-    "timeWeek": 1166,
-    "timeMonth": 1137,
+    "timeDay": 1021,
+    "timeWeek": 1133,
+    "timeMonth": 1131,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-08-11": 15,
@@ -42,16 +42,16 @@
     "icon": "https://favicons.githubusercontent.com/stats.uptimerobot.com",
     "slug": "status",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "96.57%",
-    "time": 2177,
-    "timeDay": 455,
-    "timeWeek": 562,
-    "timeMonth": 552,
-    "timeYear": 2335,
+    "time": 2174,
+    "timeDay": 684,
+    "timeWeek": 571,
+    "timeMonth": 550,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2022-08-11": 15,
       "2022-08-08": 474,
@@ -89,8 +89,7 @@
       "2022-01-08": 18,
       "2022-01-07": 66,
       "2021-12-20": 43,
-      "2021-08-27": 467,
-      "2021-08-26": 144
+      "2021-08-27": 467
     }
   }
 ]
