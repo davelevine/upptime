@@ -4,7 +4,7 @@
     "url": "https://status.levine.org",
     "icon": "https://favicons.githubusercontent.com/status.levine.org",
     "slug": "better-uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1096,
     "timeYear": 1038,
     "dailyMinutesDown": {
+      "2022-09-18": 0,
       "2022-08-11": 15,
       "2022-08-08": 474,
       "2022-06-24": 15,
@@ -42,7 +43,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "96.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.69%",
@@ -52,6 +53,7 @@
     "timeMonth": 555,
     "timeYear": 2373,
     "dailyMinutesDown": {
+      "2022-09-18": 0,
       "2022-08-11": 15,
       "2022-08-08": 474,
       "2022-07-13": 16,
