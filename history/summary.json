@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.levine.org.ico",
     "slug": "better-uptime",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "98.66%",
-    "time": 1157,
-    "timeDay": 635,
-    "timeWeek": 801,
-    "timeMonth": 1000,
-    "timeYear": 1187,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.68%",
+    "time": 1159,
+    "timeDay": 957,
+    "timeWeek": 811,
+    "timeMonth": 985,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2023-02-14": 50,
       "2023-02-07": 15,
@@ -35,8 +35,7 @@
       "2022-03-12": 218,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 1440
+      "2022-03-09": 1440
     }
   },
   {
@@ -48,13 +47,13 @@
     "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "98.61%",
-    "time": 1983,
-    "timeDay": 404,
-    "timeWeek": 579,
-    "timeMonth": 640,
-    "timeYear": 1785,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.63%",
+    "time": 1982,
+    "timeDay": 576,
+    "timeWeek": 561,
+    "timeMonth": 641,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2023-02-14": 50,
       "2023-02-07": 15,
@@ -82,8 +81,7 @@
       "2022-03-12": 298,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
-      "2022-03-09": 1440,
-      "2022-03-08": 1440
+      "2022-03-09": 1440
     }
   }
 ]
