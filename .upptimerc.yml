@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Better Uptime
-    url: https://status.levine.org
+    url: https://status.xdv.com
   - name: Status
     url: https://stats.uptimerobot.com/rYO3jsvYJ
 
