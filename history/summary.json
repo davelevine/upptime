@@ -4,7 +4,7 @@
     "url": "https://status.xdv.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.xdv.com.ico",
     "slug": "better-uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1171,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2024-07-20": 0,
       "2024-02-08": 25,
       "2023-10-08": 24
     }
@@ -27,7 +28,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "97.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 583,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2024-07-20": 0,
       "2024-03-25": 19,
       "2024-02-12": 22,
       "2024-02-08": 25,
