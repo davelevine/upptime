@@ -18,7 +18,7 @@ status-website:
   introTitle: "Dave's Status Page"
   introMessage: Service status for Dave's homelab.
   theme: night
-  themeUrl: /assets/dracula.css
+  themeUrl: assets/dracula.css
   navbar:
 #    - title: Status
 #      href: /
