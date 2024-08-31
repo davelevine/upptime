@@ -18,7 +18,7 @@ status-website:
   introTitle: "Dave's Status Page"
   introMessage: Service status for Dave's homelab.
   theme: night
-  themeurl: https://raw.githubusercontent.com/forerosantiago/upptime/master/assets/dracula.css
+  themeUrl: https://raw.githubusercontent.com/davelevine/upptime/master/assets/dracula.css
   navbar:
 #    - title: Status
 #      href: /
