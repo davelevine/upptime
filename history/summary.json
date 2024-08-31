@@ -5,38 +5,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/dave.levine.io.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "uptime": "98.53%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-08-31": 0
+      "2024-08-31": 1
     }
   },
   {
     "name": "MkDocs",
-    "url": "https://docs.levine.io",
-    "icon": "https://icons.duckduckgo.com/ip3/docs.levine.io.ico",
+    "url": "https://kb.levine.io",
+    "icon": "https://icons.duckduckgo.com/ip3/kb.levine.io.ico",
     "slug": "mk-docs",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "uptime": "98.56%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "98.56%",
+    "uptimeYear": "98.56%",
+    "time": 328,
+    "timeDay": 328,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2024-08-31": 0
+      "2024-08-31": 1
     }
   }
 ]
